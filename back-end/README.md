@@ -10,6 +10,6 @@ In the project directory, run
 
 Run the server
 
-## node app.js
+### node app.js
 
 
